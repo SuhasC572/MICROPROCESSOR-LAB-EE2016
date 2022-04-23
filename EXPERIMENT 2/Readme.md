@@ -1,4 +1,3 @@
-Experiment 3: ARM Assembly Programming
-The 3rd experiment.
 
-How to perform simple computations in ARM controllers using assembly language programming.
+Experiment 2: AVR Interrupt Programming
+The 2nd experiment. How to program interrupts in AVR controllers using Microchip studio
